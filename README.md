@@ -5,7 +5,6 @@ A full-stack **Task Management System** built with:
 - **Backend**: .NET Core (Clean Architecture, Dapper, Repository + Unit of Work, Stored Procedures, Authentication)
 - **Frontend**: React + TypeScript + Tailwind + React Router + Axios + Headless UI
 
-This project demonstrates how to build a scalable enterprise-grade app with modern web technologies.
 
 ---
 
