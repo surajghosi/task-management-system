@@ -1,0 +1,15 @@
+D:\dreamProject\TaskManagementSystem\Application\bin\Debug\net9.0\Application.deps.json
+D:\dreamProject\TaskManagementSystem\Application\bin\Debug\net9.0\Application.dll
+D:\dreamProject\TaskManagementSystem\Application\bin\Debug\net9.0\Application.pdb
+D:\dreamProject\TaskManagementSystem\Application\bin\Debug\net9.0\Domain.dll
+D:\dreamProject\TaskManagementSystem\Application\bin\Debug\net9.0\Domain.pdb
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\Application.dll
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\refint\Application.dll
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\Application.pdb
+D:\dreamProject\TaskManagementSystem\Application\obj\Debug\net9.0\ref\Application.dll

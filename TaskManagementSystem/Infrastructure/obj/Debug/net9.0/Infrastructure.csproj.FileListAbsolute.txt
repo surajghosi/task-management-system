@@ -1,0 +1,17 @@
+D:\dreamProject\TaskManagementSystem\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\dreamProject\TaskManagementSystem\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\dreamProject\TaskManagementSystem\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\dreamProject\TaskManagementSystem\Infrastructure\bin\Debug\net9.0\Application.dll
+D:\dreamProject\TaskManagementSystem\Infrastructure\bin\Debug\net9.0\Domain.dll
+D:\dreamProject\TaskManagementSystem\Infrastructure\bin\Debug\net9.0\Application.pdb
+D:\dreamProject\TaskManagementSystem\Infrastructure\bin\Debug\net9.0\Domain.pdb
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\dreamProject\TaskManagementSystem\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

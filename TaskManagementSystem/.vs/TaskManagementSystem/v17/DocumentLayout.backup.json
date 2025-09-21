@@ -1,0 +1,674 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dreamProject\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{457A3AA5-6A0B-47DB-8A64-9203A95923FB}|TaskManagementSystemTests\\TaskManagementSystemTests.csproj|d:\\dreamproject\\taskmanagementsystem\\taskmanagementsystemtests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457A3AA5-6A0B-47DB-8A64-9203A95923FB}|TaskManagementSystemTests\\TaskManagementSystemTests.csproj|solutionrelative:taskmanagementsystemtests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\dreamproject\\taskmanagementsystem\\taskmanagementsystem\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|d:\\dreamproject\\taskmanagementsystem\\infrastructure\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|d:\\dreamproject\\taskmanagementsystem\\infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\dtos\\taskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\dtos\\taskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEDF4D4-E6B3-4B62-809C-47A730422BE4}|Domain\\Domain.csproj|d:\\dreamproject\\taskmanagementsystem\\domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEDF4D4-E6B3-4B62-809C-47A730422BE4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\dreamproject\\taskmanagementsystem\\taskmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\dreamproject\\taskmanagementsystem\\taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|d:\\dreamproject\\taskmanagementsystem\\infrastructure\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\dreamproject\\taskmanagementsystem\\taskmanagementsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|d:\\dreamproject\\taskmanagementsystem\\infrastructure\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|d:\\dreamproject\\taskmanagementsystem\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|d:\\dreamproject\\taskmanagementsystem\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEDF4D4-E6B3-4B62-809C-47A730422BE4}|Domain\\Domain.csproj|d:\\dreamproject\\taskmanagementsystem\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEDF4D4-E6B3-4B62-809C-47A730422BE4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\dreamproject\\taskmanagementsystem\\taskmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\validators\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\validators\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\dreamproject\\taskmanagementsystem\\taskmanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|d:\\dreamproject\\taskmanagementsystem\\infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|d:\\dreamproject\\taskmanagementsystem\\taskmanagementsystem\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB846A71-EA9D-4670-A36F-E99DDA1DA1B3}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\validators\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\validators\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\validators\\taskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\validators\\taskrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEDF4D4-E6B3-4B62-809C-47A730422BE4}|Domain\\Domain.csproj|d:\\dreamproject\\taskmanagementsystem\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEDF4D4-E6B3-4B62-809C-47A730422BE4}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEDF4D4-E6B3-4B62-809C-47A730422BE4}|Domain\\Domain.csproj|d:\\dreamproject\\taskmanagementsystem\\domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEDF4D4-E6B3-4B62-809C-47A730422BE4}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|d:\\dreamproject\\taskmanagementsystem\\infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|d:\\dreamproject\\taskmanagementsystem\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B9AB7E-508F-46CC-A144-0640836415C0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|d:\\dreamproject\\taskmanagementsystem\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D401D37-9C0F-489C-9802-C2D8652C9D59}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskServiceTests.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystemTests\\TaskServiceTests.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystemTests\\TaskServiceTests.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystemTests\\TaskServiceTests.cs",
+              "RelativeToolTip": "TaskManagementSystemTests\\TaskServiceTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:57:39.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskRequest.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\DTOs\\TaskRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TaskRequest.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\DTOs\\TaskRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\TaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:16:49.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TaskService.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Services\\TaskService.cs",
+              "RelativeToolTip": "Application\\Services\\TaskService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:50:46.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\TaskRepository.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:51:23.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIAwwCwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:54:38.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:50:05.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Program.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:19:47.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:10:45.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Common\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Result.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Common\\Models\\Result.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:23:37.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:09:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SeedData.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Data\\SeedData.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:59:09.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:54:15.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:18:27.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CurrentUserService.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "Application\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:18:39.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:49:00.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:54:52.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:51:12.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:49:55.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:57:05.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:50:36.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwBUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:05:29.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:48:48.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginRequestValidator.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Validators\\LoginRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\LoginRequestValidator.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Validators\\LoginRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\LoginRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:18:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManagementSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T17:34:45.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\appsettings.json",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\appsettings.json",
+              "RelativeToolTip": "TaskManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T17:29:26.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:16:29.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:51:46.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterRequestValidator.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Validators\\RegisterRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\RegisterRequestValidator.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Validators\\RegisterRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\RegisterRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:17:51.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Filters\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Filters\\ValidationFilter.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\TaskManagementSystem\\Filters\\ValidationFilter.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Filters\\ValidationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:12:09.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:16:38.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskRequestValidator.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Validators\\TaskRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\TaskRequestValidator.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Validators\\TaskRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\TaskRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:18:13.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:00:37.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\UserRole.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:49:29.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Domain\\Enums\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\TaskStatus.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Domain\\Enums\\TaskStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:49:18.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:50:17.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\PasswordHasher.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:51:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:37:10.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\dreamProject\\TaskManagementSystem\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "D:\\dreamProject\\TaskManagementSystem\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:36:33.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
